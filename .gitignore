@@ -1,0 +1,16 @@
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/styles.css
+!/favicon.svg
+!/img/
+/img/*
+!/img/self.jpg
+!/img/blenderforge.png
+!/img/cvd-storm.png
+!/img/enterprize-wordmark.jpg
+!/img/enterprize-engineer.png
+!/img/hkust-logo.svg
+!/img/sensetime-symbol.png
+!/img/signature.svg

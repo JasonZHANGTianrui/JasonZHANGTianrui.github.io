@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <title>Tianrui Zhang — TZR signature monogram</title>
+  <g fill="#285c4d">
+    <!-- Broad horizontal strokes and a finer diagonal follow the original signature. -->
+    <path d="M10 9 L88 13 L85 18 L13 16 L8 13 Z"/>
+    <path d="M83 15 L89 15 L23 83 L17 85 Z"/>
+    <path d="M15 82 L88 84 L94 89 L18 91 L11 86 Z"/>
+    <!-- The T sits high on the left; the R sits lower on the right. -->
+    <path d="M16 30 L38 30 L40 33 L37 36 L30 36 L30 56 L23 55 L23 36 L16 35 L13 32 Z"/>
+    <path transform="translate(6 3) scale(.94 .96)" fill-rule="evenodd" d="M64 42 L75 42 C85 42 89 47 87 55 C86 59 83 61 79 62 L91 76 L83 75 L70 61 L70 75 L63 75 Z M70 48 L70 56 L75 56 C79 56 81 54 81 51 C81 49 79 48 75 48 Z"/>
+  </g>
+</svg>
