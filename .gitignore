@@ -4,6 +4,17 @@
 !/index.html
 !/styles.css
 !/favicon.svg
+!/jon-barron-overrides.css
+!/vendor/
+/vendor/*
+!/vendor/jon-barron/
+/vendor/jon-barron/*
+!/vendor/jon-barron/stylesheet.css
+!/vendor/jon-barron/ATTRIBUTION.md
+!/vendor/jon-barron/fonts/
+/vendor/jon-barron/fonts/*
+!/vendor/jon-barron/fonts/*.woff2
+!/vendor/jon-barron/fonts/OFL.txt
 !/img/
 /img/*
 !/img/self.jpg
